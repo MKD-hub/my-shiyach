@@ -1,4 +1,6 @@
-# Welcome to your Expo app 👋
+# Hello! 👋
+
+This is a sample e-commerce app being developed in Expo and ReactNative. 
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
